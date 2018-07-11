@@ -1,0 +1,49 @@
+
+body{
+	background-image: url(back.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-family: 'Playball', cursive;
+	background-color: rgb(45,17,42);
+
+
+}
+h1 {
+
+	font-size: 5vw;
+    margin: auto;
+    color: rgb(255,255,255);
+    width: 30%;
+    border-bottom: .04em solid rgb(45,17,42);
+    padding: 2%;
+    text-align: center;
+}
+h2{
+	text-align: center;
+	margin: auto;
+	color: rgb(255,220,200);
+	width: 50%;
+    border-bottom: .04em solid rgb(253,88,60);
+	font-size: 4vw;
+}
+table{
+	padding: 5%;
+	font-size: 3vw;
+	width: 60%;
+	color: rgb(255,220,200);
+}
+p{
+	text-align: center;
+	padding: 5%;
+	font-size: 3vw;
+	color: rgb(255,220,200);
+
+}
+p.blank{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	color: rgb(255,220,200);
+	text-align: center;
+	font-size: 1vw;
+	vertical-align:bottom;
+}
+
